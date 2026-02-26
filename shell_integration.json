@@ -1,0 +1,8 @@
+{
+  "project_root": "/mnt/data/fz_final_work/fz final",
+  "added_files": [
+    "client/shell_client.py",
+    "admin/shell_console.py"
+  ],
+  "notes": "Shell client/server added; see README_SHELL.md"
+}
